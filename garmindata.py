@@ -9,7 +9,7 @@ from dotenv import load_dotenv, dotenv_values
 load_dotenv() 
 
 
-client = genai.Client(api_key="AIzaSyCZZGB6bJm7DmFXWOLlKbgfhONQSsqvLXc")
+client = genai.Client(api_key="----")
 
 
 #From last chatgpt
